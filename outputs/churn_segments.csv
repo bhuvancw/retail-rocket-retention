@@ -1,0 +1,6 @@
+churn_label,user_count,pct_of_users
+churned_viewer,1077790,76.6
+active_browser,297269,21.1
+churned_cart_abandoner,20802,1.5
+churned_buyer,8802,0.6
+active_buyer,2917,0.2

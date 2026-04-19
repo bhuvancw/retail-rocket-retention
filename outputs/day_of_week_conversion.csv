@@ -1,0 +1,8 @@
+day_of_week,viewers,buyers,conversion_pct,day_number
+Monday,251617,2190,0.87,0
+Tuesday,254023,2262,0.89,1
+Wednesday,245705,2244,0.91,2
+Thursday,239442,1978,0.83,3
+Friday,220530,1600,0.73,4
+Saturday,181604,1052,0.58,5
+Sunday,197384,1241,0.63,6

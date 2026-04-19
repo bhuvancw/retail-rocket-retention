@@ -1,0 +1,6 @@
+event_bucket,users,future_purchase_rate_pct
+01 event,1047086,0.0
+02-04 events,295874,0.1
+05-09 events,47826,0.4
+10-19 events,12723,1.2
+20+ events,4071,4.2
