@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project simulates the work of a product data analyst at an 
 e-commerce company. Starting from raw event logs, I built a full 
@@ -39,7 +39,7 @@ analytical areas:
 
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 | # | Question | SQL File |
 |---|---|---|
@@ -61,7 +61,7 @@ analytical areas:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 **Source:** [Retail Rocket E-commerce Dataset — Kaggle](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
 
@@ -83,7 +83,7 @@ analytical areas:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 retail-rocket-retention/
@@ -127,7 +127,7 @@ retail-rocket-retention/
 
 ---
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
 | Layer | Tool | Purpose |
 |---|---|---|
@@ -140,7 +140,7 @@ retail-rocket-retention/
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 ### 1. Retention Collapses After Month 1
 Only **3.6% of users** return in month 1 and **2.0%** in month 2.
@@ -170,7 +170,7 @@ This is the optimal window for re-engagement campaigns.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Cohort Heatmap](outputs/cohort_heatmap.png)
 
@@ -182,7 +182,7 @@ This is the optimal window for re-engagement campaigns.
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 | Finding | Recommendation | Expected Impact |
 |---|---|---|
@@ -194,7 +194,7 @@ This is the optimal window for re-engagement campaigns.
 
 ---
 
-## ▶️ How to Reproduce
+## How to Reproduce
 
 **Requirements:**
 ```bash
@@ -226,7 +226,7 @@ jupyter notebook notebooks/03_eda_visualizations.ipynb
 
 ---
 
-## 👤 Author
+## Author
 
 **Bhuvan Wandkar**  
 [LinkedIn](https://linkedin.com/in/bhuvan-wandkar-b53a48266/) · 
